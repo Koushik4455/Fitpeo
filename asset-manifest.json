@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Koushik4455/Fitpeo/static/css/main.0962ece6.css",
+    "main.js": "/Koushik4455/Fitpeo/static/js/main.77a95f14.js",
+    "static/js/787.8e797e29.chunk.js": "/Koushik4455/Fitpeo/static/js/787.8e797e29.chunk.js",
+    "index.html": "/Koushik4455/Fitpeo/index.html",
+    "main.0962ece6.css.map": "/Koushik4455/Fitpeo/static/css/main.0962ece6.css.map",
+    "main.77a95f14.js.map": "/Koushik4455/Fitpeo/static/js/main.77a95f14.js.map",
+    "787.8e797e29.chunk.js.map": "/Koushik4455/Fitpeo/static/js/787.8e797e29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0962ece6.css",
+    "static/js/main.77a95f14.js"
+  ]
+}
